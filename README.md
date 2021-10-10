@@ -9,4 +9,9 @@ Tidy datasets are easy to manipulate, model and visualise, and have a specific s
 each variable is a column, each observation is a row, and each type of observational unit
 is a table.
 
+* [Awesome Data Engineering Resource](https://awesomedataengineering.com/)
+
+* [DataEngineerOne | DE1(youTube channel)](https://www.youtube.com/channel/UC-mKLvIP3q-vufrxMtj17FA)
+
+Covers and deep dive the kedro framework along with Good data engineering tutorials
 ___
